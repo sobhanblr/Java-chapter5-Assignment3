@@ -1,4 +1,4 @@
-//alculate the area of square and rectangles using constructor overloading
+//Calculate the area of square and rectangles using constructor overloading
 
 class Rectangle
          {
